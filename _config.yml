@@ -1,11 +1,11 @@
 # Site settings
 author: Deborah Santillan
-title: 
+title: Why I'm taking this course
 header-img: img/home-bg.png
 email: s.debb@yahoo.com
 copyright_name: Deborah Santillan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  my thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dsandilla91
